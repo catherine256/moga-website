@@ -2498,3 +2498,5 @@ footer .credits {
   max-height: 60px;
   margin-right: 8px;
 }
+
+.display-5{font-size:calc(1.425rem + 2.1vw);font-weight:700;line-height:1.2;color: #180668;}@media (min-width: 1200px){.display-5{font-size:3rem}}
